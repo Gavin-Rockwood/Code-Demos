@@ -1,0 +1,2 @@
+Run_Name                                 ;N  ;h_range     ;gamma_range ;step_size ;buffer_size ;patch_number ;Patch_Path   ;Save_Path
+StripOfParameterSpace_Periodic_Smaller ;128 ;[-1.25, 1.25] ;[-0.2,0.2]      ;    0.001 ;         5 ;          20 ;Patch_Files/ ;Final_Files/
